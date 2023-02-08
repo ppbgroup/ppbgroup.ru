@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://ppbgroup.ru/sitemap.xml
+Disallow: /notfound/
+Disallow: /personalnye-dannye/
+Disallow: /thanks/

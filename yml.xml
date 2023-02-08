@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-08-17 09:00">
+	<shop>
+		<name>ППБ-груп</name>
+        <company>ООО «ППБ-груп»</company>
+        <url>https://ppbgroup.ru/</url>
+
+        <currencies>
+            <currency id="RUR" rate="1" plus="0"/>
+        </currencies>
+
+        <categories>
+        	<category id="1">Юридические услуги</category>
+			<category id="10" parentId="1">Внесение изменений ООО</category>
+
+			<category id="2">Бухгалтерские услуги</category>
+			<category id="3">Тендеры</category>
+
+			<category id="4">Пакетные предложения</category>
+        </categories>
+
+        <offers>
+        	<offer id="1">
+				<url>https://ppbgroup.ru/akcii/registraciya-ooo/</url>
+				<name>Регистрация ООО</name>
+				<price>11000</price>
+				<categoryId>4</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">7 рабочих дней</param>
+				<param name="Условия">Один учредитель</param>
+			</offer>
+			<offer id="2">
+				<url>https://ppbgroup.ru/akcii/registraciya-ooo-pod-klyuch/</url>
+				<name>Регистрация ООО под ключ с юридическим адресом</name>
+				<price>51000</price>
+				<categoryId>4</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">10 рабочих дней</param>
+				<param name="Условия">Один учредитель, адрес и почтовое обслуживание на 11 месяцев</param>
+			</offer>
+			<offer id="3">
+				<url>https://ppbgroup.ru/akcii/registraciya-ooo-ecp/</url>
+				<name>Регистрация ООО через ЭЦП без уплаты пошлины</name>
+				<price>5400</price>
+				<categoryId>4</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">5 рабочих дней</param>
+				<param name="Условия">Один учредитель</param>
+			</offer>
+			<offer id="4">
+				<url>https://ppbgroup.ru/akcii/sovremennaya-kompaniya/</url>
+				<name>Регистрация ООО через ЭЦП с электронной бухгалтерией и отчетностью</name>
+				<price>22000</price>
+				<categoryId>4</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">5 рабочих дней</param>
+				<param name="Условия">Один учредитель, Контур.Эльба "Премиум" на 1 год</param>
+			</offer>
+			<offer id="5">
+				<url>https://ppbgroup.ru/uslugi/yuridicheskie/registraciya/</url>
+				<name>Подготовка документов для регистрации любых форм бизнеса</name>
+				<price>2500</price>
+				<categoryId>1</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">2 рабочих дня</param>
+			</offer>
+			<offer id="6">
+				<url>https://ppbgroup.ru/uslugi/yuridicheskie/vnesenie-izmenenij/</url>
+				<name>Смена ОКВЭД и другие изменения</name>
+				<price>8000</price>
+				<categoryId>10</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">5-6 рабочих дней</param>
+			</offer>
+			<offer id="7">
+				<url>https://ppbgroup.ru/uslugi/yuridicheskie/vnesenie-izmenenij/smena-adresa/</url>
+				<name>Смена юридического адреса организации</name>
+				<price>8000</price>
+				<categoryId>10</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">7 рабочих дней</param>
+			</offer>
+			<offer id="8">
+				<url>https://ppbgroup.ru/uslugi/yuridicheskie/vnesenie-izmenenij/smena-direktora/</url>
+				<name>Смена генерального директора организации</name>
+				<price>6700</price>
+				<categoryId>10</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">5-6 рабочих дней</param>
+			</offer>
+			<offer id="9">
+				<url>https://ppbgroup.ru/uslugi/yuridicheskie/adres/</url>
+				<name>Предоставление юридического адреса для организации</name>
+				<price>35000</price>
+				<categoryId>1</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">На 11 месяцев</param>
+			</offer>
+			<offer id="10">
+				<url>https://ppbgroup.ru/uslugi/yuridicheskie/likvidaciya/</url>
+				<name>Комплексная услуга ликвидации ООО "под ключ"</name>
+				<price>25000</price>
+				<categoryId>10</categoryId>
+				<currencyId>RUR</currencyId>
+				<param name="Срок">От 3-х месяцев</param>
+			</offer>
+        </offers>
+	</shop>
+</yml_catalog>
