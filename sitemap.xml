@@ -27,7 +27,7 @@
 
 	<url>
 		<loc>https://ppbgroup.ru/contact/</loc>
-		<lastmod>2019-10-07</lastmod>
+		<lastmod>2023-02-08</lastmod>
 	</url>
 
 	<url>
@@ -141,26 +141,6 @@
 	</url>
 
 	<url>
-		<loc>https://ppbgroup.ru/akcii/registraciya-ooo-pod-klyuch/</loc>
-		<lastmod>2019-08-11</lastmod>
-	</url>
-
-	<url>
-		<loc>https://ppbgroup.ru/akcii/registraciya-ooo-ecp/</loc>
-		<lastmod>2019-08-11</lastmod>
-	</url>
-
-	<url>
-		<loc>https://ppbgroup.ru/akcii/sovremennaya-kompaniya/</loc>
-		<lastmod>2019-08-11</lastmod>
-	</url>
-
-	<url>
-		<loc>https://ppbgroup.ru/akcii/registraciya-ooo/</loc>
-		<lastmod>2019-08-11</lastmod>
-	</url>
-
-	<url>
 		<loc>https://ppbgroup.ru/uslugi/buhgalterskie/elba/</loc>
 		<lastmod>2019-08-11</lastmod>
 	</url>
@@ -172,6 +152,26 @@
 
 	<url>
 		<loc>https://ppbgroup.ru/uslugi/buhgalterskie/buhgalteria/</loc>
+		<lastmod>2019-08-11</lastmod>
+	</url>
+
+	<url>
+		<loc>https://ppbgroup.ru/uslugi/tendery/ecp/</loc>
+		<lastmod>2019-08-11</lastmod>
+	</url>
+
+	<url>
+		<loc>https://ppbgroup.ru/uslugi/tendery/vypiska-egrul/</loc>
+		<lastmod>2019-08-06</lastmod>
+	</url>
+
+	<url>
+		<loc>https://ppbgroup.ru/uslugi/tendery/registraciya-akkreditaciya/</loc>
+		<lastmod>2019-08-11</lastmod>
+	</url>
+
+	<url>
+		<loc>https://ppbgroup.ru/uslugi/tendery/torgi/</loc>
 		<lastmod>2019-08-11</lastmod>
 	</url>
 
@@ -211,22 +211,22 @@
 	</url>
 
 	<url>
-		<loc>https://ppbgroup.ru/uslugi/tendery/ecp/</loc>
+		<loc>https://ppbgroup.ru/akcii/registraciya-ooo-pod-klyuch/</loc>
 		<lastmod>2019-08-11</lastmod>
 	</url>
 
 	<url>
-		<loc>https://ppbgroup.ru/uslugi/tendery/vypiska-egrul/</loc>
-		<lastmod>2019-08-06</lastmod>
-	</url>
-
-	<url>
-		<loc>https://ppbgroup.ru/uslugi/tendery/registraciya-akkreditaciya/</loc>
+		<loc>https://ppbgroup.ru/akcii/registraciya-ooo-ecp/</loc>
 		<lastmod>2019-08-11</lastmod>
 	</url>
 
 	<url>
-		<loc>https://ppbgroup.ru/uslugi/tendery/torgi/</loc>
+		<loc>https://ppbgroup.ru/akcii/sovremennaya-kompaniya/</loc>
+		<lastmod>2019-08-11</lastmod>
+	</url>
+
+	<url>
+		<loc>https://ppbgroup.ru/akcii/registraciya-ooo/</loc>
 		<lastmod>2019-08-11</lastmod>
 	</url>
 
